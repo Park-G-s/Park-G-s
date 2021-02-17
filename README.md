@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=egg&color=auto&height=300&section=header&text=Park%20GyengSung&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=egg&color=auto&height=300&section=header&text=Park%20GyengSung&fontSize=90&animation=fadeIn)
 ### Hi there 👋
 my name is Park gueng sung   
 I am currently preparing for a job and studying hard.
