@@ -11,7 +11,7 @@ I am currently preparing for a job and studying hard.
 | CCNA                  | Dec 08, 2020 | CISCO            | 🔗[![badge1](https://img.shields.io/badge/-link-brightgreen)](https://github.com/Park-G-s/image-repository/blob/master/cisco.GIF?raw=true)|
 | AWS CloudPractitioner | Feb 24, 2020 | AWS              | 🔗[![badge2](https://img.shields.io/badge/-link-brightgreen)](https://github.com/Park-G-s/image-repository/blob/master/aws.GIF?raw=true)|
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=&show_icons=true&theme=radical)
+![Park-G-s's GitHub stats](https://github-readme-stats.vercel.app/api?username=Park-G-s&show_icons=true&theme=radical)
 
 <!--
 **Park-G-s/Park-G-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
