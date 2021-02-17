@@ -8,7 +8,7 @@ I am currently preparing for a job and studying hard.
 |    Certificate name   | Issue Date   | Issuing angency  |   |
 |:---------------------:|--------------|------------------|---|
 | 정보처리기사          | Nov 22, 2019 | 한국산업인력공단 |   |
-| CCNA                  | Dec 08, 2020 | CISCO            | :link:[AWS Certified Cloud Practitioner certificate.pdf](https://github.com/Park-G-s/image-repository/files/5997242/AWS.Certified.Cloud.Practitioner.certificate.pdf) |
+| CCNA                  | Dec 08, 2020 | CISCO            | :link: |
 | AWS CloudPractitioner | Feb 24, 2020 | AWS              | 🔗  |
 
 <!--
