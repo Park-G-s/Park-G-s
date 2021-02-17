@@ -1,4 +1,6 @@
 ### Hi there 👋
+my name is Park gueng sung
+I am currently preparing for a job and studying hard.
 
 <!--
 **Park-G-s/Park-G-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
