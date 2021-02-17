@@ -16,8 +16,7 @@ I am currently preparing for a job and studying hard.</p align=center>
 
 ![Park-G-s's GitHub stats](https://github-readme-stats.vercel.app/api?username=Park-G-s&show_icons=true&theme=radical)
 
-
-
+![footer](https://capsule-render.vercel.app/api?section=footer&type=slice&color=auto)
 <!--
 **Park-G-s/Park-G-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.</p align=center>
 
