@@ -3,7 +3,8 @@ my name is Park gueng sung
 I am currently preparing for a job and studying hard.
 
 - 🌱 I’m currently learning network, aws, linux
-- :page_facing_up: Certificate   
+- :page_facing_up: Certificate 
+  
 |    Certificate name   | Issue Date   | Issuing angency  |   |
 |:---------------------:|--------------|------------------|---|
 | 정보처리기사          | Nov 22, 2019 | 한국산업인력공단 |   |
