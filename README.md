@@ -8,7 +8,7 @@ I am currently preparing for a job and studying hard.
 |    Certificate name   | Issue Date   | Issuing angency  |   |
 |:---------------------:|--------------|------------------|---|
 | 정보처리기사          | Nov 22, 2019 | 한국산업인력공단 |   |
-| CCNA                  | Dec 08, 2020 | CISCO            | 🔗:https://github.com/Park-G-s  |
+| CCNA                  | Dec 08, 2020 | CISCO            | :link:https://github.com/Park-G-s  |
 | AWS CloudPractitioner | Feb 24, 2020 | AWS              | 🔗  |
 
 <!--
