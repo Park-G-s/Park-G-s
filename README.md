@@ -8,8 +8,8 @@ I am currently preparing for a job and studying hard.
 |    Certificate name   | Issue Date   | Issuing angency  |   |
 |:---------------------:|--------------|------------------|---|
 | 정보처리기사          | Nov 22, 2019 | 한국산업인력공단 |   |
-| CCNA                  | Dec 08, 2020 | CISCO            | ![Generic badge](https://img.shields.io/badge/-link-brightgreen)|
-| AWS CloudPractitioner | Feb 24, 2020 | AWS              | 🔗  |
+| CCNA                  | Dec 08, 2020 | CISCO            | 🔗![badge1](https://img.shields.io/badge/-link-brightgreen)|
+| AWS CloudPractitioner | Feb 24, 2020 | AWS              | 🔗![badge2](https://img.shields.io/badge/-link-brightgreen)|
 
 <!--
 **Park-G-s/Park-G-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
