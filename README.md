@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Park%20GyengSung&fontSize=90&animation=fadeIn)
-###<center> Hi there 👋</center>
+### Hi there 👋
 my name is Park gueng sung   
 I am currently preparing for a job and studying hard.
 
