@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Park%20GyengSung&fontSize=90&animation=fadeIn)
 ### Hi there 👋
-<center>my name is Park gueng sung</center>      
-<center>I am currently preparing for a job and studying hard.</center>
+my name is Park gueng sung     
+I am currently preparing for a job and studying hard.
 
 - 🌱 I’m currently learning network, aws, linux
 - :page_facing_up: Certificate 
