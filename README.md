@@ -7,8 +7,8 @@ I am currently preparing for a job and studying hard.
   
 |    Certificate name   | Issue Date   | Issuing angency  |   |
 |:---------------------:|--------------|------------------|---|
-| 정보처리기사          | Nov 22, 2019 | 한국산업인력공단 | https://ko.emojiguide.com/물건/link/  |
-| CCNA                  | Dec 08, 2020 | CISCO            | :link: |
+| 정보처리기사          | Nov 22, 2019 | 한국산업인력공단 |   |
+| CCNA                  | Dec 08, 2020 | CISCO            | [![ccna링크]🔗](https:lynmp.com)|
 | AWS CloudPractitioner | Feb 24, 2020 | AWS              | 🔗  |
 
 <!--
