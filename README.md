@@ -16,8 +16,8 @@
   | AWS CloudPractitioner | Feb 24, 2020 | AWS              | 🔗[![badge2](https://img.shields.io/badge/-link-brightgreen)](https://github.com/Park-G-s/image-repository/blob/master/aws.GIF?raw=true)|  
 
 
-
-![Park-G-s's GitHub stats](https://github-readme-stats.vercel.app/api?username=Park-G-s&show_icons=true&theme=radical)
+##### :star: GitHub STAT
+![Park-G-s's GitHub stats](https://github-readme-stats.vercel.app/api?username=Park-G-s&show_icons=true&theme=&hide_border=true&hide_title=ture)
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=slice&color=auto)
 <!--
