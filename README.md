@@ -1,11 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Park%20GyengSung&fontSize=90&animation=fadeIn)
 <h3 align=center> Hi there 👋</h3 align=center>
-<p align=center>my name is Park gyeong sung  </p align=center>
-<p align=center>I am currently preparing for a job and studying hard.</p align=center>
+<p align=center>:boy: My name is Park gyeong sung  </p align=center>
+<p align=center>:memo: I am currently preparing for a job and studying hard.</p align=center>
 
-<p align=center>- 🌱 I’m currently learning network, aws, linux </p align=center>
+<p align=center> 🌱 I’m currently learning network, aws, linux </p align=center>
   
-<p align=center>- :page_facing_up: Certificate </p align=center>
+<p align=center> :pencil2: Certificate </p align=center>
 
 
   |    Certificate name   | Issue Date   | Issuing angency  |   |
