@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Park%20GyengSung&fontSize=90&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=header&text=Park%20GyengSung&fontSize=90&animation=fadeIn)
 <h3 align=center> Hi there 👋</h3 align=center>
 <p align=center>:boy: My name is Park gyeong sung  </p align=center>
 <p align=center>:memo: I am currently preparing for a job and studying hard.</p align=center>
@@ -23,7 +23,7 @@
 ##### :star: GitHub STAT
 ![Park-G-s's GitHub stats](https://github-readme-stats.vercel.app/api?username=Park-G-s&show_icons=true&theme=&hide_border=true&hide_title=ture)
 
-![footer](https://capsule-render.vercel.app/api?section=footer&type=slice&color=auto&height=300)
+![footer](https://capsule-render.vercel.app/api?section=footer&type=slice&color=auto&height=200)
 <!--
 **Park-G-s/Park-G-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.</p align=center>
 
