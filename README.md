@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=header&text=Park%20GyeongSung&fontSize=58&animation=twinkling&fontAlignY=30&fontAlign=70&rotate=12)
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=header&text=Park%20Gyeong%20Sung&fontSize=48%&animation=twinkling&fontAlignY=35&fontAlign=72&rotate=12)
+
 <h3 align=center> Hi there 👋</h3 align=center>
 <p align=center>:boy: My name is Park gyeong sung  </p align=center>
 <p align=center>:memo: I am currently preparing for a job and studying hard.</p align=center>
