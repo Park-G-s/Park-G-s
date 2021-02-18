@@ -5,7 +5,11 @@
 
 <p align=center> 🌱 I’m currently learning network, aws, linux </p align=center>
   
-
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
 ##### :pencil2: Certificate 
 
 
@@ -19,7 +23,7 @@
 ##### :star: GitHub STAT
 ![Park-G-s's GitHub stats](https://github-readme-stats.vercel.app/api?username=Park-G-s&show_icons=true&theme=&hide_border=true&hide_title=ture)
 
-![footer](https://capsule-render.vercel.app/api?section=footer&type=slice&color=auto)
+![footer](https://capsule-render.vercel.app/api?section=footer&type=slice&color=auto&height=300)
 <!--
 **Park-G-s/Park-G-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.</p align=center>
 
