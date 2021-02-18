@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Park%20Gyeong%20Sung&fontSize=38%&animation=twinkling&fontAlignY=25%&fontAlign=70&rotate=18)
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Park%20Gyeong%20Sung&fontSize=30%&animation=twinkling&fontAlignY=25%&fontAlign=70&rotate=18)
 
 <h3 align=center> Hi there 👋</h3 align=center>
 <p align=center>:boy: My name is Park gyeong sung  </p align=center>
