@@ -12,7 +12,7 @@
 ##### :pencil2: Certificate 
 
 
-  |    Certificate name   | Issue Date   | Issuing-angency  |   |
+  |    Certificate name   | Issue Date   | Issuing-Agency  |   |
   |:---------------------:|--------------|:------------------:|---|
   | 정보처리기사          | Nov 22, 2019 | 한국산업인력공단 |   |
   | CCNA                  | Dec 08, 2020 | CISCO            | 🔗[![badge1](https://img.shields.io/badge/-link-brightgreen)](https://github.com/Park-G-s/image-repository/blob/master/cisco.GIF?raw=true)|
